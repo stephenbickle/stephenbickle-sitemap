@@ -4,6 +4,11 @@
     <loc>https://stephenbickle.com/</loc>
     <priority>1.00</priority>
     <changefreq>weekly</changefreq>
+  </url>  
+  <url>
+    <loc>https://stephenbickle.com/relationship-coaching-santa-monica</loc>
+    <priority>0.95</priority>
+    <changefreq>monthly</changefreq>
   </url>
   <url>
     <loc>https://stephenbickle.com/about</loc>
